@@ -7,13 +7,4 @@ CouchDB Java API
 
 A Java _client_ for [CouchDB](http://couchdb.apache.org/) database.
 
-This is an active fork of LightCouch CouchDB Java API. Our intention is to mantain an active development of the library to cover the CouchDB REST API.
-
-The releases of this fork are published via Jitpack
-```xml
-<dependency>
-	<groupId>com.github.IndabaConsultores</groupId>
-	<artifactId>lightCouch</artifactId>
-	<version>0.2.5</version>
-</dependency>
-```
+This is a fork of IndabaConsultores's LightCouch CouchDB Java API to submit smaller pull requests. 
